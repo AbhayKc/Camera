@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="files_root"
+        path="Android/data/com.example.camera" />
+    <external-path
+        name="external_files"
+        path="." />
+
+</paths>
